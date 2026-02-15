@@ -42,17 +42,13 @@
 
 ###
 
+
+###
+
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Rafikunnabi-Piash/Rafikunnabi-Piash/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Rafikunnabi-Piash/Rafikunnabi-Piash/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Rafikunnabi-PiashE/Rafikunnabi-Piash/output/pacman-contribution-graph.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafikunnabi-Piash/Rafikunnabi-Piash/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafikunnabi-Piash/Rafikunnabi-Piashoutput/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rafikunnabi-Piash/Rafikunnabi-Piash/output/pacman-contribution-graph.svg">
 </picture>
+
+###>
