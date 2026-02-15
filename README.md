@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafikunnabi-piash&label=Profile%20views&color=0e75b6&style=flat" alt="rafikunnabi-piash" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafikunnabi-piash" alt="rafikunnabi-piash" /></a> </p>
+<p align="left"> <a href="https://github.com/Rafikunnabi-Piash"><img src="https://github-profile-trophy.vercel.app/?username=rafikunnabi-piash" alt="rafikunnabi-piash" /></a> </p>
 
 - 👀 I’m interested in **Graphic Designing, UI/UX Deigning, Frontent Design**
 
